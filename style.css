@@ -157,7 +157,7 @@ main{
     width: 100%;
     height: auto;
     background-color: aqua;
-    background-image: url("/img/hero1.png");
+    background-image: url("img/1hero.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -257,7 +257,7 @@ main{
 .info-fullscreen {
     width: 100%;
     height: 500px;
-    background-image: url('/img/main1.png'); /* ganti sesuai nama file kamu */
+    background-image: url('img/main1.png'); /* ganti sesuai nama file kamu */
     background-size: cover;
     background-position: center;
     position: relative;
